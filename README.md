@@ -1,7 +1,6 @@
 
 <h1 align="left">Hi there 👋</h1>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=DwiN3&show_icons=true&locale=en&theme=tokyonight" alt="DwiN3" /></p>
 
 ### I am Kamil Dereń 
 
