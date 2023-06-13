@@ -8,7 +8,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-000?style=flat&logo=Gmail&logoColor=white)](mailto:dwinicht333@gmail.com)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/dwin_3)
 [![Youtube](https://img.shields.io/badge/-Youtube-000?style=flat&logo=Youtube&logoColor=white)](https://www.youtube.com/user/DwinichtYT)
-[![Discord](https://img.shields.io/badge/-DwiN%236264-000?style=flat&logo=Discord&logoColor=white)](https://discord.com/)
+[![Discord](https://img.shields.io/badge/-dwin3-000?style=flat&logo=Discord&logoColor=white)](https://discord.com/)
 
 ### Currently in my heart: </br>
 
