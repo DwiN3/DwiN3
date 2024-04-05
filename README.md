@@ -15,6 +15,6 @@
 ![Android](http://img.shields.io/badge/-Android-000000?style=for-the-badge&logo=android)
 ![Java](https://img.shields.io/badge/-Java-000000?style=for-the-badge&logo=java&logoColor=white)
 ![Java Script](https://img.shields.io/badge/-Java%20script-000000?style=for-the-badge&logo=javascript)
-![C#](https://img.shields.io/badge/-C%20Sharp-000000?style=for-the-badge&logo=csharp)
+![C#](https://img.shields.io/badge/-C%20#-000000?style=for-the-badge&logo=csharp)
 
 ![ViewCount](https://views.whatilearened.today/views/github/DwiN3/DwiN3.svg?cache=remove)
